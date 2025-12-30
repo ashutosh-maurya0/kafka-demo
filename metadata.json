@@ -1,0 +1,5 @@
+{
+  "description": "A high-fidelity Kafka architectural simulation for demonstrating real-time streaming, partitioning, and consumer group logic with Gemini-powered explainers.",
+  "requestFramePermissions": [],
+  "name": "KafkaPulse Simulation"
+}
